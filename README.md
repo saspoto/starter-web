@@ -12,6 +12,7 @@ This is the <a>introduction</a>
 ## Purpose
 
 Sample website with plenty of files for demos
+Editting within Github interface
 
 ## Deployment
 
